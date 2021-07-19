@@ -5,7 +5,7 @@
     <link>https://enjoy1415.github.io/publication-type/2/</link>
       <atom:link href="https://enjoy1415.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Yin Zahoyuan, Powered by the [Academic theme](https://sourcethemes.com/academic/) for [Hugo](https://gohugo.io).</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Yin Zahoyuan, Powered by the [Academic theme](https://sourcethemes.com/academic/) for [Hugo](https://gohugo.io).</copyright><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://enjoy1415.github.io/images/icon_hucc98e8d39641c394cc2810f9da4e4918_4586_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
@@ -13,18 +13,10 @@
     </image>
     
     <item>
-      <title>Interval estimation for nabla fractional order linear time-invariant systems</title>
-      <link>https://enjoy1415.github.io/publication/smac/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://enjoy1415.github.io/publication/smac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mittag-Leffler stability of nabla discrete fractional-order dynamic systems</title>
-      <link>https://enjoy1415.github.io/publication/example/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://enjoy1415.github.io/publication/example/</guid>
+      <title>Improving the resilience of power grids against typhoons with data-driven distributionally robust optimization</title>
+      <link>https://enjoy1415.github.io/publication/dro/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://enjoy1415.github.io/publication/dro/</guid>
       <description></description>
     </item>
     
